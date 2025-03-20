@@ -14,7 +14,11 @@ approach for lean manufacturing
 . Downtime Pattern Analysis – When and why downtime occurs most frequently.
 . Pareto Analysis (80/20 Rule) – Find the top causes contributing to most downtime.
 
--Predictive Maintenance (Machine Learning)
+-- Predictive Maintenance (Machine Learning)
 Model Selection:
 . Time Series Forecasting (ARIMA, LSTM) – Predict future machine failures.
 . Classification Models (Random Forest, XGBoost) – Predict whether a machine will fail based on past behavior.
+
+-- Automation & Proactive Maintenance
+. Set up automated alerts (email/SMS) when downtime risk is high.
+. Implement real-time dashboards in Power BI to track machine health.
